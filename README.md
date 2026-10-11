@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin Diagnostic — Deep Learning PR 1
+# Breast Cancer Wisconsin Diagnostic
 
 ## 📌 Project Overview
 
