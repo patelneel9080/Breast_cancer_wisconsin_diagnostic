@@ -196,7 +196,6 @@ Breast_cancer_wisconsin_diagnostic/
 │
 ├── breast_cancer_wisconsin_diagnostic.csv
 ├── breast_cancer_wisconsin_diagnostic.ipynb
-├── breast_cancer_wisconsin_diagnostic.html
 ├── README.md
 ├── requirements.txt
 ```
